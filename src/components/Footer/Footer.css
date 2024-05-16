@@ -1,0 +1,27 @@
+.footerLogo {
+    left: 20px;
+    width: 80px;
+    margin-left: 20px;
+}
+
+.footer_section {
+    margin-top: 20px;
+    display: flex;
+    color: white;
+    justify-content: space-between;
+    align-items: center;
+    height: 100px;
+    background-color: black;
+}
+
+.footer_icon {
+    display: flex;
+    margin-right: 20px;
+    font-size: x-large;
+    list-style: none;
+    color: white;
+}
+
+.bg_color {
+    color: white;
+}
